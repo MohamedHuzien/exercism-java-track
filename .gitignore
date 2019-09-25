@@ -1,4 +1,2 @@
-gigasecond/.gradle/*/*/*
-gigasecond/build/*
-
-gigasecond/.gradle/5.6.2/executionHistory/executionHistory.bin
+*/.gradle/*
+*/build/*
